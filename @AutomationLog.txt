@@ -1,0 +1,25 @@
+2022-05-31 11:22:21.298 weixin.py[5] <module> -> Find Control Timeout(10s): {Name: '收藏', ControlType: ButtonControl}
+2022-05-31 11:35:54.120 weixin.py[47] <module> -> 2022-05-31 11:37:29.966 weixin.py[47] <module> -> 2022-05-31 11:39:32.714 weixin.py[34] get_meau_item -> 2022-05-31 11:40:50.660 weixin.py[34] get_meau_item -> 2022-05-31 11:44:56.777 weixin1.py[33] get_meau_item -> 2022-05-31 11:47:25.696 weixin.py[34] get_meau_item -> 2022-05-31 11:49:08.221 weixin.py[34] get_meau_item -> 2022-05-31 11:51:01.518 weixin.py[34] get_meau_item -> 2022-05-31 11:51:50.998 weixin.py[34] get_meau_item -> 2022-05-31 11:59:27.470 weixin.py[34] get_meau_item -> 2022-05-31 12:01:04.125 weixin.py[34] get_meau_item -> 
+[WinError -2147221008] 尚未调用 CoInitialize。
+Can not load UIAutomationCore.dll.
+1, You may need to install Windows Update KB971513 if your OS is Windows XP, see https://github.com/yinkaisheng/WindowsUpdateKB971513ForIUIAutomation
+2, you need to use an UIAutomationInitializerInThread object if use uiautomation in a thread, see demos/uiautomation_in_thread.py
+
+[WinError -2147221008] 尚未调用 CoInitialize。
+Can not load UIAutomationCore.dll.
+1, You may need to install Windows Update KB971513 if your OS is Windows XP, see https://github.com/yinkaisheng/WindowsUpdateKB971513ForIUIAutomation
+2, you need to use an UIAutomationInitializerInThread object if use uiautomation in a thread, see demos/uiautomation_in_thread.py
+
+[WinError -2147221008] 尚未调用 CoInitialize。
+Can not load UIAutomationCore.dll.
+1, You may need to install Windows Update KB971513 if your OS is Windows XP, see https://github.com/yinkaisheng/WindowsUpdateKB971513ForIUIAutomation
+2, you need to use an UIAutomationInitializerInThread object if use uiautomation in a thread, see demos/uiautomation_in_thread.py
+2022-05-31 12:02:44.487 pydevd_xml.py[293] _get_default_var_string_representation -> Find Control Timeout(10s): {ControlType: MenuControl}
+2022-05-31 12:02:44.693 weixin.py[34] get_meau_item -> Find Control Timeout(10s): {ControlType: MenuControl}
+2022-05-31 12:02:55.596 pydevd_xml.py[293] _get_default_var_string_representation -> 2022-05-31 12:08:08.339 weixin1.py[33] get_meau_item -> 2022-05-31 12:09:30.989 weixin1.py[33] get_meau_item -> 2022-05-31 12:10:12.032 weixin1.py[33] get_meau_item -> 2022-05-31 12:11:02.452 weixin1.py[33] get_meau_item -> 2022-05-31 12:12:22.360 weixin1.py[33] get_meau_item -> 2022-05-31 12:14:03.120 weixin1.py[33] get_meau_item -> 2022-05-31 12:18:20.122 weixin1.py[33] get_meau_item -> 2022-05-31 12:21:10.136 weixin1.py[33] get_meau_item -> 2022-05-31 12:23:32.546 weixin1.py[33] get_meau_item -> 2022-05-31 13:04:03.958 weixin1.py[33] get_meau_item -> 2022-05-31 13:44:12.606 delWeiXin.py[6] get_meau_item -> Find Control Timeout(10s): {ControlType: MenuControl}
+2022-05-31 13:44:25.016 delWeiXin.py[6] get_meau_item -> Find Control Timeout(10s): {ControlType: MenuControl}
+2022-05-31 13:55:29.607 delWeiXin.py[6] get_meau_item -> Find Control Timeout(10s): {ControlType: MenuControl}
+2022-05-31 14:49:13.369 delWeiXin.py[6] get_meau_item -> Find Control Timeout(10s): {ControlType: MenuControl}
+2022-05-31 17:09:25.587 delWeiXin.py[6] get_meau_item -> Find Control Timeout(10s): {ControlType: MenuControl}
+2022-05-31 17:38:19.741 delWeiXin.py[6] get_meau_item -> Find Control Timeout(10s): {ControlType: MenuControl}
+2022-05-31 18:26:35.912 delWeiXin.py[6] get_meau_item -> Find Control Timeout(10s): {ControlType: MenuControl}
